@@ -16,7 +16,7 @@ In this project, we construct a **discrete Bayesian Network** that predicts vari
 
 ## Dataset
 
-- **Source:** ClinVar `variant_summary.txt.gz` (NCBI)
+- **Source:** ClinVar `variant_summary.txt.gz` (NCBI) (https://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/) 
 - **Scope:** Millions of curated human genetic variants (GRCh37 / GRCh38)
 - **Target label:** `ClinSigSimple`
   - `0` → benign-like
